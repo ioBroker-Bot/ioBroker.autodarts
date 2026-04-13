@@ -132,6 +132,10 @@ In **HELP & FAQ** you will find general information and help about the adapter a
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Removed react and mui
+- (skvarel) Removed admin/style.css
+
 ### 1.0.7 (2026-03-01)
 - (skvarel) CI/CD: Updated GitHub Copilot instructions template to version 0.5.7 with latest ioBroker best practices (fixes #21, #25)
 
